@@ -1,0 +1,6 @@
+*.nds
+*.zip
+build/
+.gradle/
+local.properties
+out/
