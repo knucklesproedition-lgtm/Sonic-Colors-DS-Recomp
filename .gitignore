@@ -1,5 +1,0 @@
-*.nds
-build/
-.gradle/
-local.properties
-out/
